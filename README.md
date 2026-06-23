@@ -75,7 +75,9 @@ If you want AI in the business *this month*, these are my fastest paths to value
 - **Discover the Art of Prompting** (Google/Coursera) — Completed **Aug 2025**  
 - **Maximize Productivity with AI Tools** (Google/Coursera) — Completed **Aug 2025**  
 - **Introduction to AI** (Google/Coursera) — Completed **Aug 2025**
-
+- **AI Fundamentals with Claude** (AWIT + Anthropic / Coursera) — Completed Jun 2026
+- **AI Collaboration with Claude** (AWIT + Anthropic / Coursera) — Completed Jun 2026
+- **AI Automation with Claude** (AWIT + Anthropic / Coursera) — Completed Jun 2026
 ---
 
 ## Career highlights
